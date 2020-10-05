@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #set your servername and email here
-SERVERNAME=
-EMAIL=
+SERVERNAME= wp
+EMAIL= wp@wp.com
 
 mkdir /wpinstall
 cd /wpinstall
